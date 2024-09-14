@@ -20,7 +20,7 @@ import React from "react";
 // react plugin used to create charts
 import { Line, Pie } from "react-chartjs-2";
 import adalid from "../assets/alumnos/Adalid Herrera Ruiz_.jpg"
-import alondra from "../assets/alumnos/Alo_Mtz.jpg"
+import alondra from "../assets/alumnos/Alo_Mtz_2.jpg"
 import arturo from "../assets/alumnos/ArturoGarcia.jpeg"
 import davila from "../assets/alumnos/dávila.jpeg"
 import castro from "../assets/alumnos/Castro.jpeg"
@@ -38,7 +38,7 @@ import yahir from "../assets/alumnos/YahirHernandez.jpeg"
 import hombre from "hombre.png"
 import eduardo from "../assets/alumnos/Eduardo_Garcia.png"
 import jessica from "../assets/alumnos/jessicontreras.jpg"
-import jp from "../assets/alumnos/null.webp"
+import jp from "../assets/alumnos/ContrerasVasquez.jpeg"
 import compean from "../assets/alumnos/CompeanMacias.jpeg"
 import erick from "../assets/alumnos/ErickMeraz.jpeg"
 import gustavo from "../assets/alumnos/GustavoHeredia.jpg"
